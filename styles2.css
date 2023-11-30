@@ -9,7 +9,7 @@
 
  
 
-/* section { 
+ section { 
     padding: 8px 0px 0px 0px;
 }  */
 
@@ -19,7 +19,7 @@
 
 
 
-/* .section-two {
+ .section-two {
     padding: 6px 2px 2px 8px;
     background-color: deepskyblue;
 }  */
@@ -28,7 +28,7 @@
 
 /* designating a % for width for an image allows a rescale when web brower moves */
 
- /* .cake-poster-item {
+  .cake-poster-item {
     border: 1px solid yellow; 
     display: flex; 
     flex-wrap: wrap;
@@ -37,12 +37,12 @@
  } */
 
  
- /* .dark {
+  .dark {
     color: #333333;
 }  */
 
  
-/* .center {
+ .center {
     text-align: center;
 }  */
 
@@ -51,13 +51,13 @@
 /*====footer styles====*/
 
 
- /* footer {
+  footer {
     
     background-color: white;
     
 }  */
 
- /* .disclaimer {   
+  .disclaimer {   
     padding: 5px;
     text-align: center;
 }  */
